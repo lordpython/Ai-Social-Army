@@ -1,0 +1,7 @@
+streamlit==1.32.0
+langchain-groq==0.0.6
+langchain-anthropic==0.1.4
+langchain-openai==0.0.8
+crewai==0.14.2
+crewai-tools==0.0.23
+pandas==2.2.1
